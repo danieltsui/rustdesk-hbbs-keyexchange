@@ -1,0 +1,5 @@
+# unofficial patched hbbs 1.1.15-keyexchange
+# binary (inside the tar.gz as rustdesk-hbbs-1.1.15-keyexchange-x86_64-unknown-linux-musl/hbbs)
+ee9a4bc82f7435ccf6be1e20ec020e08141fda112f0d790ee333099334802cdc  hbbs
+# tarball
+1664893a47a8dc814397c139729dfbb98ceb4d70cd7d2979d498d186d7d5bf38  rustdesk-hbbs-1.1.15-keyexchange-x86_64-unknown-linux-musl.tar.gz
